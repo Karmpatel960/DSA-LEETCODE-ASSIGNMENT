@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c12da69c-9ba8-4851-a88b-424e05aa8998" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Assignment/Sorting/majority element 169.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/cyclicsort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Sorting/selectionsort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bubble_sort/bubblesort_algo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Sorting/bubblesort_algo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assignment/Sorting/majority element 169.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assignment/Sorting/merge sorted array 88.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Sorting/bubblesort_algo.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/Sorting/selectionsort.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -29,19 +38,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "D:/project/OIBSIP"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="bubblesort_algo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bubble_sort.bubblesort_algo" />
+      <option name="MAIN_CLASS_NAME" value="Sorting.bubblesort_algo" />
       <module name="DSA-LEETCODE-ASSIGNMENT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bubble_sort.*" />
+          <option name="PATTERN" value="Sorting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
