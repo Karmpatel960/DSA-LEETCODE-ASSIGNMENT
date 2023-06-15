@@ -1,10 +1,14 @@
-class Solution {
+import java.util.Arrays;
+
+public class missingnumber {
+
     public static void main(String[] args) {
-        int[] arr = new int[]{3, 5, 2, 1, 4};
-        missingNumber(arr);
+        int[] arr = new int[]{3, 0, 2, 1, 4};
+        Number(arr);
         System.out.println(Arrays.toString(arr));
     }
-    public int missingNumber(int[] arr) {
+
+    public static int Number(int[] arr) {
         int i=0;
         while(i<arr.length){
             int correct = arr[i];
@@ -19,8 +23,8 @@ class Solution {
             if(arr[j] != j){
                 return j;
             }
-         return arr.length;
         }
+        return arr.length;
     }
 
     static void swap(int[] arr,int i, int c){
