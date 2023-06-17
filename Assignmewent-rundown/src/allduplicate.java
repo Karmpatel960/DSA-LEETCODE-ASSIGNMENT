@@ -23,6 +23,7 @@ public class allduplicate {
                 }
             } else {
                 i++;
+
             }
         }
         return -1;
