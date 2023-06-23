@@ -15,10 +15,14 @@ import java.util.Arrays;
 public class stringbuild {
     public static void main(String[] args) {
         int a1 =10;
-        int[] arr1 = {2,3,4,5,6};
-        System.out.println(34);
-        System.out.println(Arrays.toString(new int[]{1,2,3,4,5}));
-        System.out.println("k");
+        // .tostring case
+        Integer in = new Integer(56);
+        System.out.println(in);
+        System.out.println(in.toString());
+//        int[] arr1 = {2,3,4,5,6};
+//        System.out.println(34);
+//        System.out.println(Arrays.toString(new int[]{1,2,3,4,5}));
+//        System.out.println("k");
 
 
         // immutable case
