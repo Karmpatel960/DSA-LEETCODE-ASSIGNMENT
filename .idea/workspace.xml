@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c12da69c-9ba8-4851-a88b-424e05aa8998" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Stringbuild/Operator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stringbuild/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stringbuild/StringOps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stringbuild/performance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stringbuild/preetyprinting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Stringbuild/stringbuild.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Stringbuild/stringbuild.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,20 +48,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/project/OIBSIP&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.stringbuild">
-    <configuration name="allduplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="allduplicate" />
-      <module name="Assignmewent-rundown" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="bubblesort_algo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.bubblesort_algo" />
+  <component name="RunManager" selected="Application.Palindrome">
+    <configuration name="Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stringbuild.Operator" />
       <module name="DSA-LEETCODE-ASSIGNMENT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="Stringbuild.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="cyclicsort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sorting.cyclicsort" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stringbuild.Palindrome" />
       <module name="DSA-LEETCODE-ASSIGNMENT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Sorting.*" />
+          <option name="PATTERN" value="Stringbuild.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,15 +75,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="missingnumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="missingnumber" />
-      <module name="Assignmewent-rundown" />
+    <configuration name="StringOps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stringbuild.StringOps" />
+      <module name="DSA-LEETCODE-ASSIGNMENT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stringbuild.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="stringbuild" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stringbuild.stringbuild" />
+    <configuration name="performance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stringbuild.performance" />
+      <module name="DSA-LEETCODE-ASSIGNMENT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Stringbuild.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="preetyprinting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Stringbuild.preetyprinting" />
       <module name="DSA-LEETCODE-ASSIGNMENT" />
       <extension name="coverage">
         <pattern>
@@ -100,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.stringbuild" />
-        <item itemvalue="Application.allduplicate" />
-        <item itemvalue="Application.missingnumber" />
-        <item itemvalue="Application.cyclicsort" />
-        <item itemvalue="Application.bubblesort_algo" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.StringOps" />
+        <item itemvalue="Application.performance" />
+        <item itemvalue="Application.Operator" />
+        <item itemvalue="Application.preetyprinting" />
       </list>
     </recent_temporary>
   </component>
