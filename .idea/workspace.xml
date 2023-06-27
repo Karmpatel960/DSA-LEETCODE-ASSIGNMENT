@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c12da69c-9ba8-4851-a88b-424e05aa8998" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Stringbuild/Operator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stringbuild/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stringbuild/StringOps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stringbuild/performance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Stringbuild/preetyprinting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/pattern1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/pattern2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/pattern3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/pattern44.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/pattern5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/pattern6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/pattern7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pattern/pattern9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +51,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/project/OIBSIP&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Palindrome">
-    <configuration name="Operator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stringbuild.Operator" />
+  <component name="RunManager" selected="Application.pattern9">
+    <configuration name="pattern44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.pattern44" />
       <module name="DSA-LEETCODE-ASSIGNMENT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stringbuild.*" />
+          <option name="PATTERN" value="pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stringbuild.Palindrome" />
+    <configuration name="pattern5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.pattern5" />
       <module name="DSA-LEETCODE-ASSIGNMENT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stringbuild.*" />
+          <option name="PATTERN" value="pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringOps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stringbuild.StringOps" />
+    <configuration name="pattern6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.pattern6" />
       <module name="DSA-LEETCODE-ASSIGNMENT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stringbuild.*" />
+          <option name="PATTERN" value="pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="performance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stringbuild.performance" />
+    <configuration name="pattern7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.pattern7" />
       <module name="DSA-LEETCODE-ASSIGNMENT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stringbuild.*" />
+          <option name="PATTERN" value="pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="preetyprinting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Stringbuild.preetyprinting" />
+    <configuration name="pattern9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pattern.pattern9" />
       <module name="DSA-LEETCODE-ASSIGNMENT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Stringbuild.*" />
+          <option name="PATTERN" value="pattern.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.StringOps" />
-        <item itemvalue="Application.performance" />
-        <item itemvalue="Application.Operator" />
-        <item itemvalue="Application.preetyprinting" />
+        <item itemvalue="Application.pattern9" />
+        <item itemvalue="Application.pattern7" />
+        <item itemvalue="Application.pattern6" />
+        <item itemvalue="Application.pattern5" />
+        <item itemvalue="Application.pattern44" />
       </list>
     </recent_temporary>
   </component>
