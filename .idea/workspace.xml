@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c12da69c-9ba8-4851-a88b-424e05aa8998" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pattern/pattern1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/pattern2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/pattern3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/pattern44.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/pattern5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/pattern6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/pattern7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pattern/pattern9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/tut23_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/tut23_l1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,33 +45,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/project/OIBSIP&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.pattern9">
-    <configuration name="pattern44" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern.pattern44" />
-      <module name="DSA-LEETCODE-ASSIGNMENT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="pattern5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern.pattern5" />
-      <module name="DSA-LEETCODE-ASSIGNMENT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pattern.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.tut23_2">
     <configuration name="pattern6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="pattern.pattern6" />
       <module name="DSA-LEETCODE-ASSIGNMENT" />
@@ -117,13 +85,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tut23_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.tut23_2" />
+      <module name="DSA-LEETCODE-ASSIGNMENT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="tut23_l1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Recursion.tut23_l1" />
+      <module name="DSA-LEETCODE-ASSIGNMENT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Recursion.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.tut23_2" />
+        <item itemvalue="Application.tut23_l1" />
         <item itemvalue="Application.pattern9" />
         <item itemvalue="Application.pattern7" />
         <item itemvalue="Application.pattern6" />
-        <item itemvalue="Application.pattern5" />
-        <item itemvalue="Application.pattern44" />
       </list>
     </recent_temporary>
   </component>
