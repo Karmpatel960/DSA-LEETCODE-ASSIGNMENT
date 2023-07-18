@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c12da69c-9ba8-4851-a88b-424e05aa8998" name="Changes" comment="" />
+    <list default="true" id="c12da69c-9ba8-4851-a88b-424e05aa8998" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/timecomp/fibo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,13 +44,13 @@
     &quot;last_opened_file_path&quot;: &quot;D:/project/OIBSIP&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.tut23_4_bs">
-    <configuration name="pattern9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pattern.pattern9" />
+  <component name="RunManager" selected="Application.fibo">
+    <configuration name="fibo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timecomp.fibo" />
       <module name="DSA-LEETCODE-ASSIGNMENT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pattern.*" />
+          <option name="PATTERN" value="timecomp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fibo" />
         <item itemvalue="Application.tut23_4_bs" />
         <item itemvalue="Application.tut23_3" />
         <item itemvalue="Application.tut23_2" />
         <item itemvalue="Application.tut23_l1" />
-        <item itemvalue="Application.pattern9" />
       </list>
     </recent_temporary>
   </component>
