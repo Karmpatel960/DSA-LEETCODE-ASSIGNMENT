@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c12da69c-9ba8-4851-a88b-424e05aa8998" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Math/Oddornot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Math/findUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math/Noofdigit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math/power.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math/poweroftwo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +46,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/project/OIBSIP&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MagicNumber">
+  <component name="RunManager" selected="Application.power">
     <configuration name="MagicNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Math.MagicNumber" />
       <module name="DSA-LEETCODE-ASSIGNMENT" />
@@ -59,25 +60,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Oddornot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math.Oddornot" />
+    <configuration name="Noofdigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math.Noofdigit" />
       <module name="DSA-LEETCODE-ASSIGNMENT" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="fibo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timecomp.fibo" />
-      <module name="DSA-LEETCODE-ASSIGNMENT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="timecomp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +86,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tut23_4_bs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Recursion.tut23_4_bs" />
+    <configuration name="power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math.power" />
       <module name="DSA-LEETCODE-ASSIGNMENT" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Recursion.*" />
+          <option name="PATTERN" value="Math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="poweroftwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math.poweroftwo" />
+      <module name="DSA-LEETCODE-ASSIGNMENT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Math.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.power" />
+        <item itemvalue="Application.poweroftwo" />
+        <item itemvalue="Application.Noofdigit" />
         <item itemvalue="Application.MagicNumber" />
         <item itemvalue="Application.findUnique" />
-        <item itemvalue="Application.Oddornot" />
-        <item itemvalue="Application.fibo" />
-        <item itemvalue="Application.tut23_4_bs" />
       </list>
     </recent_temporary>
   </component>
@@ -150,6 +151,15 @@
           <url>file://$PROJECT_DIR$/Assignmewent-rundown/src/missingnumber.java</url>
           <line>5</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Math/Noofdigit.java</url>
+          <line>3</line>
+          <properties class="Math.Noofdigit" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
