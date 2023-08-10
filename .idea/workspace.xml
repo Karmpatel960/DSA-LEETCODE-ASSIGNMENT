@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c12da69c-9ba8-4851-a88b-424e05aa8998" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Math/Noofdigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Math/power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Math/poweroftwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math/RangeXOR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math/flipimage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math/setbit.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,20 +46,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/project/OIBSIP&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.power">
-    <configuration name="MagicNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math.MagicNumber" />
-      <module name="DSA-LEETCODE-ASSIGNMENT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Math.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.RangeXOR">
     <configuration name="Noofdigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Math.Noofdigit" />
       <module name="DSA-LEETCODE-ASSIGNMENT" />
@@ -73,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math.findUnique" />
+    <configuration name="RangeXOR" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math.RangeXOR" />
       <module name="DSA-LEETCODE-ASSIGNMENT" />
       <extension name="coverage">
         <pattern>
@@ -112,13 +99,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="setbit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math.setbit" />
+      <module name="DSA-LEETCODE-ASSIGNMENT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Math.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RangeXOR" />
+        <item itemvalue="Application.setbit" />
         <item itemvalue="Application.power" />
         <item itemvalue="Application.poweroftwo" />
         <item itemvalue="Application.Noofdigit" />
-        <item itemvalue="Application.MagicNumber" />
-        <item itemvalue="Application.findUnique" />
       </list>
     </recent_temporary>
   </component>
