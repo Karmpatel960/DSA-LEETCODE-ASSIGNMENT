@@ -1,7 +1,6 @@
 package Math;
 
 public class flipimage {
-
     public int[][] flipAndInvertImage(int[][] image) {
 
         for(int[] row : image){
@@ -13,5 +12,4 @@ public class flipimage {
         }
         return image;
     }
-
 }
