@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c12da69c-9ba8-4851-a88b-424e05aa8998" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Math2/BinaryserchSQRT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Math2/Factors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Math2/NewtonSQRT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Math2/Seive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Math2/prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Math2/GCD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Math/flipimage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Math/flipimage.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +44,7 @@
     &quot;last_opened_file_path&quot;: &quot;D:/project/OIBSIP&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Factors">
+  <component name="RunManager" selected="Application.GCD">
     <configuration name="BinaryserchSQRT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Math2.BinaryserchSQRT" />
       <module name="DSA-LEETCODE-ASSIGNMENT" />
@@ -65,6 +60,19 @@
     </configuration>
     <configuration name="Factors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Math2.Factors" />
+      <module name="DSA-LEETCODE-ASSIGNMENT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Math2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GCD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Math2.GCD" />
       <module name="DSA-LEETCODE-ASSIGNMENT" />
       <extension name="coverage">
         <pattern>
@@ -102,26 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="prime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Math2.prime" />
-      <module name="DSA-LEETCODE-ASSIGNMENT" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Math2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GCD" />
         <item itemvalue="Application.Factors" />
         <item itemvalue="Application.NewtonSQRT" />
         <item itemvalue="Application.BinaryserchSQRT" />
         <item itemvalue="Application.Seive" />
-        <item itemvalue="Application.prime" />
       </list>
     </recent_temporary>
   </component>
