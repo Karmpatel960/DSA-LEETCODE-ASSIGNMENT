@@ -1,4 +1,4 @@
-bool isPrime(int n)
+bool prime(int n)
 {
 	int sum = 0;
 
