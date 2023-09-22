@@ -10,7 +10,6 @@ void selectionsort(int arr[], int n){
         int min = i;
         for (int j = i; j < n-1; j++)
         {
-            /* code */  
             if(arr[j]< arr[min]){
                 min = j;
             }
@@ -19,8 +18,6 @@ void selectionsort(int arr[], int n){
          int temp = arr[min];
          arr[min] = arr[i];
         arr[i] = temp;
-        
-        /* code */
     }
     
 }
